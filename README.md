@@ -32,6 +32,16 @@ Testing the webserver
 # OUTPUT:
 ![Alt Text](images/webserver1.png)
 
+
+
+
+
+
+
+
+![image](https://github.com/sreekarsh/Web_server/assets/139841918/642b11af-1fcb-4342-a3b3-d59b14152061)
+
+
 # RESULT:
 
 The program is executed succesfully
