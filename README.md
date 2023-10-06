@@ -27,8 +27,10 @@ Serving the HTML pages.
 
 Testing the webserver
 # PROGRAM:
-Type your code here
+
+
 # OUTPUT:
+![Alt Text](images/webserver1.png)
 
 # RESULT:
 
